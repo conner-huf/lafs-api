@@ -1,3 +1,22 @@
+# UPDATE:
+I've deployed this project using AWS. Some of the things I've experimented with / used in this project are:
+
+- Containerization with Docker
+- Lambdas
+- AWS
+- Angular
+- Writing APIs
+
+The deployed project can be found [here](http://connerbucket1.s3-website-us-east-1.amazonaws.com/)
+
+# What will I find in this project:
+
+This project is forked from a repository for learning Angular, so you will find a "question-answer" system focused on Angular. There are only example questions populating the sections
+
+With AWS, I created methods for performing CRUD operations on the lists of questions and answers. So now, a user can input a question into the question list and an answer into the answer list.
+
+---
+
 # Angular Tutorial: Learn Angular from scratch step by step REST API
 
 This project is a Loopback API used in part 2 of [Learn Angular from scratch step by step tutorial](https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step) where we explore from the basic concepts and why’s of Angular to building a complete Angular 7 app with the MEAN stack.
